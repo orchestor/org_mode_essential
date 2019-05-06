@@ -17,3 +17,7 @@ Org is a mode for editing, formatting, organizing document. This tool can help y
 ** date
 ~C-c .~ to inser
 
+
+* TODO To do list
+  ** TODO GTD
+** TODO 
