@@ -5,11 +5,15 @@ What I cannot create, I do not understand. - Richard Feynman
 #+TITLE: org mode
 #+AUTHOR: Dr. Lin Wang
 #+DATE: <2019-05-06 Mon>
-
-
+Org is a mode for editing, formatting, organizing document. This tool can help you finish the following tasks:
++ take notes
++ get things down
++ literal programming
++ Agenda
 * Head
 ~#~ is for the first level. ~##~ is the second.  
 ** 
 
 ** date
-~C-c .~ to insert the date. 
+~C-c .~ to inser
+
