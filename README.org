@@ -1,0 +1,14 @@
+#+TITLE: org mode
+#+AUTHOR: Dr. Lin Wang
+#+DATE: <2019-05-06 Mon>
+
+#+begin_quote
+What I cannot create, I do not understand. - Richard Feynman
+#+end_quote
+
+* Head
+~#~ is for the first level. ~##~ is the second.  
+** 
+
+** date
+~C-c .~ to insert the date. 
