@@ -12,6 +12,12 @@ Org is a mode for editing, formatting, organizing document. This tool can help y
 + Agenda
 
 * Headline
+~#~ is for the first level. ~##~ is the second.  
+** 
+
+** date
+~C-c .~ to insert the date.
+
 * TO DO LIST 
 ** DONE headline
 ** TODO GTD
