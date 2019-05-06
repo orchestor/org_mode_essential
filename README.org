@@ -13,10 +13,19 @@ Org is a mode for editing, formatting, organizing document. This tool can help y
 
 * Headline
 ~#~ is for the first level. ~##~ is the second.  
-** 
+* 
 
 ** date
 ~C-c .~ to insert the date.
+
+** Python script
+#+BEGIN_SRC python :results output
+a = 1+1
+print a
+#+END_SRC
+
+#+RESULTS:
+: 2
 
 * TO DO LIST 
 ** DONE headline
